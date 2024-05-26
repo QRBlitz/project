@@ -68,7 +68,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -157,7 +157,7 @@
       <workItem from="1715530048347" duration="5820000" />
       <workItem from="1715701913686" duration="41000" />
       <workItem from="1715838034474" duration="34000" />
-      <workItem from="1716702486074" duration="1256000" />
+      <workItem from="1716702486074" duration="1469000" />
     </task>
     <servers />
   </component>

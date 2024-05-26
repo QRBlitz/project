@@ -271,6 +271,7 @@ public class UserServiceImpl implements UserService {
         if (userDto.avatar != null) user.setAvatar(userDto.avatar);
         if (userDto.sex != null) user.setSex(userDto.sex);
         if (userDto.login != null && admin) user.setLogin(userDto.login);
+        if (userDto.hashCode != null) user.setHashCode(userDto.hashCode);
     }
 
 

@@ -22,6 +22,7 @@ public class UserDto {
     public String verificationCode;
     public String oldPassword;
     public String newPassword;
+    public String hashCode;
 
     public User toCreateEntity(String password) {
         return User.builder()
